@@ -7,7 +7,7 @@ Project template initially developed for ["Introduction to Data Science I"](http
 
 We use [Quarto](https://quarto.org/) for the template, which starts from a single [`report.qmd`](https://github.com/Unco3892/datascience-template/blob/main/report/report.qmd) file and can give several outputs:
 
-- [🌐 HTML report](https://html-preview.github.io/?url=https://github.com/Unco3892/datascience-template/blob/main/report/report.html)
+- [🌐 HTML report](https://htmlpreview.github.io/?https://github.com/Unco3892/datascience-template/blob/main/report/report.html)
 - [📑 PDF report](https://github.com/Unco3892/datascience-template/blob/main/report/report.pdf)
 - [📝 Microsoft Word report](https://github.com/Unco3892/datascience-template/raw/refs/heads/main/report/report.docx) (you can also directly edit this instead of the `report.qmd`)
 
